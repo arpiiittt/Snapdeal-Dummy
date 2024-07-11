@@ -9,5 +9,5 @@ HTML5 and CSS3: Utilizes modern HTML5 and CSS3 features.
 Cross-browser Compatibility: Compatible with all major browsers.
 User Interface Elements: Includes a variety of UI elements such as navigation bar, product listings, and footer.
 Clone the repository:
-git clone https://github.com/arpiiit/Snapdeal-Dummy.git
+git clone https://github.com/arpiiittt/Snapdeal-Dummy.git
 cd Snapdeal-Dummy
